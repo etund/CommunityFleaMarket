@@ -10,8 +10,6 @@ public class SpringbootSchoolTradeApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringbootSchoolTradeApplication.class, args);
-
-
     }
 
 }
