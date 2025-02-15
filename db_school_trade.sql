@@ -20,6 +20,7 @@ SET FOREIGN_KEY_CHECKS = 0;
 -- ----------------------------
 -- Table structure for sh_address
 -- ----------------------------
+use DB_School_trade;
 DROP TABLE IF EXISTS `sh_address`;
 CREATE TABLE `sh_address`  (
   `id` bigint NOT NULL AUTO_INCREMENT COMMENT '自增主键',
